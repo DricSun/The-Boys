@@ -1,0 +1,7 @@
+@mixin nav ($color, $size) { 
+    -moz-font-size : $size;
+    -webkit-color: $color;
+    color:$color;
+    font-size: $size;
+    
+}
